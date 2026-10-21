@@ -1,0 +1,2 @@
+# Only needed to rebuild the corpus; the assistant itself uses Python stdlib.
+lxml>=5.3,<7
