@@ -77,7 +77,7 @@ python tools/collect.py
 
 - Исходный код и инструкция: этот проект.
 - [Тесты: 30 вопросов с ответами и источниками](output/test-results.md).
-- [Презентация в PDF, 7 слайдов](output/miem-assistant.pdf).
+- [Презентация в PDF, 13 слайдов](output/miem-assistant.pdf).
 
 ## Открытый репозиторий
 
